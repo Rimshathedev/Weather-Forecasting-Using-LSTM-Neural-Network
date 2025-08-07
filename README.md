@@ -12,7 +12,8 @@ Each station includes parameters such as:
 - Temperature (°C)
 - Monthly precipitation
 - And more..
-
+- Datasets of Saudia Arabia 8 Different stations 
+https://drive.google.com/file/d/10YpUy4hrkflcZ1wjkPwauzZCsNOriaVE/view?usp=sharing, https://drive.google.com/file/d/17AnIN4S_POf43EznundaaXDRNG6cgMjK/view?usp=sharing, https://drive.google.com/file/d/17nUb7ofxEi9jZOM6E0thdi7iW317q9Bm/view?usp=sharing, https://drive.google.com/file/d/196_joJSCsBEPEDiybxhcS6XDlEXny8YI/view?usp=sharing, https://drive.google.com/file/d/1AfZdRjh7ES2ImVHDcsRS7f3SdyHBslPE/view?usp=sharing, https://drive.google.com/file/d/1FTNtc9do_yjW2mEHjJr57BUe-zEVQLpT/view?usp=sharing, https://drive.google.com/file/d/1YXeLZ9HQPH1Ak3L6eJigA6bMcrVy-erK/view?usp=sharing, https://drive.google.com/file/d/1eRE3Yg1v4Ma5zUivMENQtbFzpV31GtHo/view?usp=sharing, https://drive.google.com/file/d/1e_op2--laYPBcp1iRxYSKJw3TDciZkSD/view?usp=sharing, https://docs.google.com/spreadsheets/d/1iqlriSFe0T8HhLPDg5SsAHM56M4TRbMAtrJD9jaDcXQ/edit?usp=sharing
 Data range: **1981 to 2024**
 ## 🧠 Model Architecture
 
